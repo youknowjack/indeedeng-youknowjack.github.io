@@ -4,7 +4,7 @@ title: Imhotep Workshop
 permalink: /workshop/
 ---
 
-# Welcome to the Imhotep Workshop
+# Imhotep Workshop Links
 
 ## [Quick Start Guide](/imhotep/docs/quick-start)
 
