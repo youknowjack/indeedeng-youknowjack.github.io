@@ -18,5 +18,5 @@ permalink: /workshop/
 
 [Documentation](/imhotep)
 
-[Source Code](https://github.com/indeedeng)
+[Source Code](https://github.com/indeedeng/imhotep)
 
