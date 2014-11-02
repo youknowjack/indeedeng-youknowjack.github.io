@@ -1,5 +1,5 @@
 ---
-layout: links
+layout: page
 title: Imhotep Workshop Links
 permalink: /workshop/
 ---
