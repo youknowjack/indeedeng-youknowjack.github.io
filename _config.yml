@@ -1,9 +1,8 @@
-name: Open Source @IndeedEng
+name: Indeed Open Source
 # http://stackoverflow.com/questions/10759577/underscore-issues-jekyll-redcarpet-github-flavored-markdown
 markdown: redcarpet
 pygments: true
 # jekyll serve --watch --baseurl=
-baseurl: "http://indeedeng.github.io/"
 # permalinks are relative to their parent folder
 relative_permalinks: false
 redcarpet:
