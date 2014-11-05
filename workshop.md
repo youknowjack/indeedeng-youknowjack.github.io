@@ -10,6 +10,8 @@ permalink: /workshop/
 
 [Data File Requirements](/imhotep/docs/data-file-requirements/)
 
+[Upload Format Helper Script](/imhotep/docs/imhotep_helper/)
+
 [Sample Data](/imhotep/docs/sample-data)
 
 [Sample Queries](/imhotep/docs/sample-queries)
