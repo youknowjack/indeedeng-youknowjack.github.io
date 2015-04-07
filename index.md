@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Indeed Engineering Open Source
+title:
 exclude_toc: true
 ---
 
-![whiteboard](images/whiteboard.png)
-#Imhotep
+#Featured Project: Imhotep
 Imhotep is a highly scalable analytics platform that lets you do the following:
 
 * Perform fast, interactive, ad hoc queries and aggregate results for large datasets
@@ -30,9 +29,7 @@ The Imhotep suite includes the following components:
 ---
 
 
-#All Projects
-
-##Proctor
+#Featured Project: Proctor
 | | |
 | --- | --- |
 | [Proctor](https://github.com/indeedeng/proctor) | Indeed's A/B testing framework written in Java |
@@ -42,6 +39,14 @@ The Imhotep suite includes the following components:
 | [django-proctor](https://github.com/indeedeng/django-proctor) | Python package for your Django web app to use Proctor groups |
 | [proctor-sample-matrix](https://github.com/indeedeng/proctor-sample-matrix) | Proctor test definition files and a Maven pom.xml that demonstrates how to use the Maven plugin's generator to build them into a single JSON test matrix file |
 | [proctor-demo](https://github.com/indeedeng/proctor-demo) | Reference implementation and demonstration of Proctor |
+
+##Learn More
+[Proctor documentation](http://opensource.indeedeng.io/proctor/)
+
+---
+
+
+#Other Projects
 
 ##Java Utilities
 
@@ -55,6 +60,9 @@ The Imhotep suite includes the following components:
 | [util-mmap](https://github.com/indeedeng/util/tree/master/mmap) | Utility for performing mmap operations and direct memory access |
 | [util-serialization](https://github.com/indeedeng/util/tree/master/serialization) | Utility for serializing and deserializing data to and from binary and string formats |
 
+##Status
+[Status](https://github.com/indeedeng/status) is a project to help report the current state of external systems that an application depends on, as well as the current health of any internal aspects of the application.
+
 ##LSM Tree
 [LSM Tree](https://github.com/indeedeng/lsmtree) is a fast key/value store that is efficient for high-volume random access reads and writes. 
 
@@ -63,13 +71,3 @@ The Imhotep suite includes the following components:
 | [lsmtree-core](https://github.com/indeedeng/lsmtree/tree/master/lsmtree-core) | Implementation of a log-structured merge tree |
 | [record-log](https://github.com/indeedeng/lsmtree/tree/master/recordlog) | Library for writing data to append-only record logs optimized for replication |
 | [recordcache](https://github.com/indeedeng/lsmtree/tree/master/recordcache) | provides abstractions around writing record logs, building LSM trees, and performing LSM tree lookups |
-
-##Status
-[Status](https://github.com/indeedeng/status) is a project to help report the current state of external systems that an application depends on, as well as the current health of any internal aspects of the application.
-
-##CHARM
-[CHARM](https://github.com/indeedeng/charm) is a web-based release management tool for trunk development with published/versioned libraries and release branches. 
-
-##Resume Sample Data
-[resume-sample-data](https://github.com/indeedeng/resume-sample-data) provides data for you to build interesting, working code to accompany your resume that you submit to Indeed.
-

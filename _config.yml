@@ -1,4 +1,4 @@
-name: Indeed Open Source
+name: Indeed Engineering Open Source
 # http://stackoverflow.com/questions/10759577/underscore-issues-jekyll-redcarpet-github-flavored-markdown
 markdown: redcarpet
 pygments: true
