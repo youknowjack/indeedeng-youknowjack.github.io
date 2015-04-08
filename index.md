@@ -5,13 +5,11 @@ exclude_toc: true
 ---
 
 #Featured Project: Imhotep
-Imhotep is a highly scalable analytics platform that lets you do the following:
+[Imhotep](http://opensource.indeedeng.io/imhotep/) is a highly scalable analytics platform that lets you do the following:
 
 * Perform fast, interactive, ad hoc queries and aggregate results for large datasets
 * Combine results from multiple time-series datasets
 * Build your own data tools for analysis, monitoring, reporting, and automated data processing on top of the Imhotep platform
-
-##Imhotep Projects
 
 The Imhotep suite includes the following components:
 
@@ -30,6 +28,9 @@ The Imhotep suite includes the following components:
 
 
 #Featured Project: Proctor
+
+[Proctor](http://opensource.indeedeng.io/proctor/) is an A/B testing framework written in Java that enables data-driven product design.
+
 | | |
 | --- | --- |
 | [Proctor](https://github.com/indeedeng/proctor) | Indeed's A/B testing framework written in Java |
