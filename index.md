@@ -71,4 +71,4 @@ The Imhotep suite includes the following components:
 | --- | --- |
 | [lsmtree-core](https://github.com/indeedeng/lsmtree/tree/master/lsmtree-core) | Implementation of a log-structured merge tree |
 | [record-log](https://github.com/indeedeng/lsmtree/tree/master/recordlog) | Library for writing data to append-only record logs optimized for replication |
-| [recordcache](https://github.com/indeedeng/lsmtree/tree/master/recordcache) | provides abstractions around writing record logs, building LSM trees, and performing LSM tree lookups |
+| [recordcache](https://github.com/indeedeng/lsmtree/tree/master/recordcache) | Provides abstractions around writing record logs, building LSM trees, and performing LSM tree lookups |
