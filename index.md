@@ -4,6 +4,26 @@ title:
 exclude_toc: true
 ---
 
+#Featured Project: Proctor
+
+[Proctor](http://opensource.indeedeng.io/proctor/) is an A/B testing framework written in Java that enables data-driven product design.
+
+| | |
+| --- | --- |
+| [Proctor](https://github.com/indeedeng/proctor) | Indeed's A/B testing framework written in Java |
+| [proctor-webapp](https://github.com/indeedeng/proctor-webapp) | Java web application that uses proctor-webapp-library to manipulate and view Proctor definitions |
+| [proctor-webapp-library](https://github.com/indeedeng/proctor-webapp-library) | Library used for running a web application to create and modify Proctor definitions |
+| [proctor-pipet](https://github.com/indeedeng/proctor-pipet) | Java web application that provides a simple REST API to Proctor |
+| [django-proctor](https://github.com/indeedeng/django-proctor) | Python package for your Django web app to use Proctor groups |
+| [proctor-sample-matrix](https://github.com/indeedeng/proctor-sample-matrix) | Proctor test definition files and a Maven pom.xml that demonstrates how to use the Maven plugin's generator to build them into a single JSON test matrix file |
+| [proctor-demo](https://github.com/indeedeng/proctor-demo) | Reference implementation and demonstration of Proctor |
+
+##Learn More
+[Proctor documentation](http://opensource.indeedeng.io/proctor/)
+
+---
+
+
 #Featured Project: Imhotep
 [Imhotep](http://opensource.indeedeng.io/imhotep/) is a highly scalable analytics platform that lets you do the following:
 
@@ -23,26 +43,6 @@ The Imhotep suite includes the following components:
 
 ##Learn More
 [Imhotep documentation](http://opensource.indeedeng.io/imhotep/)
-
----
-
-
-#Featured Project: Proctor
-
-[Proctor](http://opensource.indeedeng.io/proctor/) is an A/B testing framework written in Java that enables data-driven product design.
-
-| | |
-| --- | --- |
-| [Proctor](https://github.com/indeedeng/proctor) | Indeed's A/B testing framework written in Java |
-| [proctor-webapp](https://github.com/indeedeng/proctor-webapp) | Java web application that uses proctor-webapp-library to manipulate and view Proctor definitions |
-| [proctor-webapp-library](https://github.com/indeedeng/proctor-webapp-library) | Library used for running a web application to create and modify Proctor definitions |
-| [proctor-pipet](https://github.com/indeedeng/proctor-pipet) | Java web application that provides a simple REST API to Proctor |
-| [django-proctor](https://github.com/indeedeng/django-proctor) | Python package for your Django web app to use Proctor groups |
-| [proctor-sample-matrix](https://github.com/indeedeng/proctor-sample-matrix) | Proctor test definition files and a Maven pom.xml that demonstrates how to use the Maven plugin's generator to build them into a single JSON test matrix file |
-| [proctor-demo](https://github.com/indeedeng/proctor-demo) | Reference implementation and demonstration of Proctor |
-
-##Learn More
-[Proctor documentation](http://opensource.indeedeng.io/proctor/)
 
 ---
 
