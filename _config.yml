@@ -1,7 +1,7 @@
 name: Indeed Engineering Open Source
 # http://stackoverflow.com/questions/10759577/underscore-issues-jekyll-redcarpet-github-flavored-markdown
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 # jekyll serve --watch --baseurl=
 # permalinks are relative to their parent folder
 relative_permalinks: false
