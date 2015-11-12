@@ -1665,7 +1665,7 @@ max-width: 600px;
   }
 
   h1 {
-    font-size: 32px;
+    font-size: 22px !important;
   }
 
   .home h1 {
@@ -1712,6 +1712,10 @@ max-width: 600px;
 /*-----------------------------------------------------------------------------------*/
 
 @media (max-width: 767px) {
+
+  h1 {
+      font-size: 22px !important;
+  }
 
   #blogHeader .navbar {
     margin-bottom: 0;
