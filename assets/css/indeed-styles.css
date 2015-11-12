@@ -1536,6 +1536,13 @@ max-width: 600px;
 
   #headerNavLinks ul li a {
     padding: 7px 12px 7px 13px;
+    color: #00c;
+  }
+
+  #headerNavLinks ul li a:hover {
+    text-decoration: none;
+    color: #00c;
+    background-color: #e8e8e8;
   }
 
   body.single-post #ssba a:first-child img {
@@ -1646,6 +1653,13 @@ max-width: 600px;
 
   #headerNavLinks ul li a {
     padding: 7px 20px 7px 21px;
+    color: #00c;
+  }
+
+  #headerNavLinks ul li a:hover {
+    text-decoration: none;
+    color: #00c;
+    background-color: #e8e8e8;
   }
 
   h1 {
@@ -1729,10 +1743,12 @@ max-width: 600px;
     font-family: "Helvetica-Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-weight: 300;
+    color: #00c;
   }
 
   #headerNavLinks ul li a:hover {
     text-decoration: none;
+    color: #00c;
     background-color: #e8e8e8;
   }
 
