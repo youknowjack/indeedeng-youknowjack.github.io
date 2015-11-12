@@ -1537,6 +1537,7 @@ max-width: 600px;
   #headerNavLinks ul li a {
     padding: 7px 12px 7px 13px;
     color: #00c;
+    line-height: 44px;
   }
 
   #headerNavLinks ul li a:hover {
@@ -1654,6 +1655,7 @@ max-width: 600px;
   #headerNavLinks ul li a {
     padding: 7px 20px 7px 21px;
     color: #00c;
+    line-height: 44px;
   }
 
   #headerNavLinks ul li a:hover {
@@ -1744,6 +1746,7 @@ max-width: 600px;
     font-size: 16px;
     font-weight: 300;
     color: #00c;
+    line-height: 44px;
   }
 
   #headerNavLinks ul li a:hover {
