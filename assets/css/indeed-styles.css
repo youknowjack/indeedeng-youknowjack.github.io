@@ -1551,7 +1551,7 @@ max-width: 600px;
   }
 
   h1 {
-    font-size: 32px !important;
+    font-size: 22px !important;
     font-weight: 300 !important;
     line-height: 1.1;
   }
@@ -1810,7 +1810,7 @@ max-width: 600px;
 @media (min-width: 768px) and (max-width: 991px) {
 
   h1 {
-    font-size: 32px;
+    font-size: 22px !important;
   }
 
   .post-ad-thumb {
