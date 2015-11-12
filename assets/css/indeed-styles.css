@@ -15,6 +15,8 @@ Text Domain: indeedblog
 h1 {
   margin-bottom: 8px;
   margin-top: 0;
+  font-size: 32px !important;
+  font-weight: 300 !important;
 }
 
 article {
