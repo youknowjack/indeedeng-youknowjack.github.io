@@ -974,9 +974,8 @@ background-color: white!important;
 }
 
 #headerNavLinks a {
-  font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
-  font-size: 14px;
-  font-weight: bold;
+  font-family: 'Avenir',Arial,Helvetica Neue,Helvetica,sans-serif;
+  font-size: 16px;
   line-height: 96px;
   color: #fff;
 }

@@ -4,7 +4,21 @@ title:
 exclude_toc: true
 ---
 
-#Featured Project: Proctor
+
+<div style="
+    color: #000000;
+    background-color: #f5f5f5;
+    border-color: #f5f5f5;
+    padding: 15px; 
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 20px;">
+    <h2 style="padding-top:0"> We're hiring: Open Source Engineering Leader</h2>
+We are seeking an engineering leader to develop and lead our open source program. <a href="https://www.indeed.jobs/career/JobDetail/Open-Source-Engineering-Leader/4623">Learn more</a> about this position. </div>
+
+
+# Featured Project: Proctor
 
 [Proctor](http://opensource.indeedeng.io/proctor/) is an A/B testing framework written in Java that enables data-driven product design.
 
@@ -18,13 +32,13 @@ exclude_toc: true
 | [proctor-sample-matrix](https://github.com/indeedeng/proctor-sample-matrix) | Proctor test definition files and a Maven pom.xml that demonstrates how to use the Maven plugin's generator to build them into a single JSON test matrix file |
 | [proctor-demo](https://github.com/indeedeng/proctor-demo) | Reference implementation and demonstration of Proctor |
 
-##Learn More
+## Learn More
 [Proctor documentation](http://opensource.indeedeng.io/proctor/)
 
 ---
 
 
-#Featured Project: Imhotep
+# Featured Project: Imhotep
 [Imhotep](http://opensource.indeedeng.io/imhotep/) is a highly scalable analytics platform that lets you do the following:
 
 * Perform fast, interactive, ad hoc queries and aggregate results for large datasets
@@ -41,15 +55,15 @@ The Imhotep suite includes the following components:
 | [imhotep-tsv-converter](https://github.com/indeedeng/imhotep-tsv-converter) | Tool to convert TSV files into Flamdex indexes for Imhotep |
 | [imhotep-cloudformation](https://github.com/indeedeng/imhotep-cloudformation) | Cloudformation scripts and other helper scripts for spinning up an Imhotep cluster in AWS |
 
-##Learn More
+## Learn More
 [Imhotep documentation](http://opensource.indeedeng.io/imhotep/)
 
 ---
 
 
-#Other Projects
+# Other Projects
 
-##Java Utilities
+## Java Utilities
 
 | | | 
 | ------ | --------- |
@@ -61,10 +75,10 @@ The Imhotep suite includes the following components:
 | [util-mmap](https://github.com/indeedeng/util/tree/master/mmap) | Utility for performing mmap operations and direct memory access |
 | [util-serialization](https://github.com/indeedeng/util/tree/master/serialization) | Utility for serializing and deserializing data to and from binary and string formats |
 
-##Status
+## Status
 [Status](https://github.com/indeedeng/status) is a project to help report the current state of external systems that an application depends on, as well as the current health of any internal aspects of the application.
 
-##LSM Tree
+## LSM Tree
 [LSM Tree](https://github.com/indeedeng/lsmtree) is a fast key/value store that is efficient for high-volume random access reads and writes. 
 
 | | |
