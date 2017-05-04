@@ -1,22 +1,10 @@
 ---
-layout: default
+layout: sidebar
 title:
 exclude_toc: true
+
 ---
-
-
-<div style="
-    color: #000000;
-    background-color: #f5f5f5;
-    border-color: #f5f5f5;
-    padding: 15px; 
-    border: 1px solid transparent;
-    border-radius: 4px;
-    font-size: 16px;
-    margin-bottom: 20px;">
-    <h2 style="padding-top:0"> We're hiring: Open Source Engineering Leader</h2>
-We are seeking an engineering leader to develop and lead our open source program. <a href="https://www.indeed.jobs/career/JobDetail/Open-Source-Engineering-Leader/4623">Learn more</a> about this position. </div>
-
+               
 
 # Featured Project: Proctor
 
@@ -86,3 +74,4 @@ The Imhotep suite includes the following components:
 | [lsmtree-core](https://github.com/indeedeng/lsmtree/tree/master/lsmtree-core) | Implementation of a log-structured merge tree |
 | [record-log](https://github.com/indeedeng/lsmtree/tree/master/recordlog) | Library for writing data to append-only record logs optimized for replication |
 | [recordcache](https://github.com/indeedeng/lsmtree/tree/master/recordcache) | Provides abstractions around writing record logs, building LSM trees, and performing LSM tree lookups |
+

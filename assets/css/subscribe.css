@@ -1,0 +1,89 @@
+
+#wrapper {
+  position: static;
+ 
+}
+
+[id^='sidebar-'] {
+  top: 18%;
+  width: 270px;
+  height: 100px;
+  margin-right: 10%;
+ 
+  
+}
+
+
+
+#sidebar-right {
+  position: fixed;
+  right: 0px;
+	
+}
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*  Media Queries: Bootstrap X-Small (everything less than 768)
+/*-----------------------------------------------------------------------------------*/
+
+@media (max-width: 767px) {
+
+ #content {
+    margin-right: 0px;
+  }
+  #sidebar-right {
+    position: static;
+    width: 100%;
+    padding-left: 2%;
+    padding-right: 2%;
+  } 
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*  Media Queries: Bootstrap Small (768px -> 991px)
+/*-----------------------------------------------------------------------------------*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+ #content {
+    margin-right: 0px;
+  }
+  #sidebar-right {
+    position: static;
+    width: 100%;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*  Media Queries: Bootstrap Medium (992px -> 1199px)
+/*-----------------------------------------------------------------------------------*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+ #content {
+    margin-right: 0px;
+  }
+  #sidebar-right {
+    position: static;
+    float: left;
+  } 
+
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*  Media Queries: Bootstrap Large (1200px and wider)
+/*-----------------------------------------------------------------------------------*/
+
+@media (min-width: 1200px) {
+
+  #content {
+    margin-right: 0px;
+  }
+  #sidebar-right {
+    position: fixed;
+    float: left;
+    }
+}
