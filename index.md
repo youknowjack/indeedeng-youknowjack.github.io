@@ -6,9 +6,11 @@ exclude_toc: true
 ---
                
 
-# Featured Project: MPH
+# Featured Project: Indeed MPH
 
-[Indeed MPH](https://github/indeedeng/mph-table/) (Minimal Perfect Hash Tables) provides an immutable key/value store with efficient space utilization and fast reads. To learn more, read [this overview](http://engineering.indeedblog.com/blog/2018/02/indeed-mph/) on our Indeed Engineering blog.
+[Indeed MPH](https://github.com/indeedeng/mph-table/) (Minimal Perfect Hash Tables) provides an immutable key/value store with efficient space utilization and fast reads. To learn more, read [this overview](http://engineering.indeedblog.com/blog/2018/02/indeed-mph/) on our Indeed Engineering blog.
+
+![Random lookup latency in microseconds](http://engineering.indeedblog.com/wp-content/uploads/2018/01/mph3.png)
 
 ---
 
