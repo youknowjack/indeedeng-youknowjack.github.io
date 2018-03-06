@@ -6,6 +6,12 @@ exclude_toc: true
 ---
                
 
+# Featured Project: MPH
+
+[Indeed MPH](https://github/indeedeng/mph-table/) (Minimal Perfect Hash Tables) provides an immutable key/value store with efficient space utilization and fast reads. To learn more, read [this overview](http://engineering.indeedblog.com/blog/2018/02/indeed-mph/) on our Indeed Engineering blog.
+
+---
+
 # Featured Project: Proctor
 
 [Proctor](http://opensource.indeedeng.io/proctor/) is an A/B testing framework written in Java that enables data-driven product design.
