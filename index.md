@@ -18,7 +18,7 @@ Read the five-part series on Medium:
 
 [What’s Up, ASF? Using Imhotep to Understand Project Activity](https://medium.com/indeed-engineering/whats-up-asf-using-imhotep-to-understand-project-activity-cdac94e1a68b). Jack uses ASF Jira data to demo the value of analyzing project activity and introduce Imhotep Builder Directory, our new open source Jira Actions builder. 
 
-[The Benefits of Hindsight: A Metrics-Driven Approach to Coaching](https://medium.com/indeed-engineering/the-benefits-of-hindsight-a-metrics-driven-approach-to-coaching-3183fc4d10fe). Hindsight is our powerful internal tool we use to make contributions visible and drive coaching insights. | 
+[The Benefits of Hindsight: A Metrics-Driven Approach to Coaching](https://medium.com/indeed-engineering/the-benefits-of-hindsight-a-metrics-driven-approach-to-coaching-3183fc4d10fe). Hindsight is our powerful internal tool we use to make contributions visible and drive coaching insights. 
 
 ---
 
