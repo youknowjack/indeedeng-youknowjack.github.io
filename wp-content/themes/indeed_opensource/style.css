@@ -513,7 +513,8 @@ event-details time, event-details address {
     }
 
     header {
-        height: 90px;
+        height: 70px;
+        padding-left: 8px;
         display: flex;
         margin: 0 auto;
         width: 90vw;
