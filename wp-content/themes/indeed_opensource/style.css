@@ -559,6 +559,10 @@ event-details time, event-details address {
         top: 90px;
     }
 
+    .banner-header {
+        padding-top: 40px;
+    }
+
     .admin-bar header nav ul.open {
         /*original top + admin bar height 46px (mobile) */
         top: 136px;
@@ -775,10 +779,6 @@ event-details time, event-details address {
         /* width: 100%; */
         max-width: 915px;
         /* min-height: 500px; */
-    }
-
-    .banner-header {
-        padding-top: 40px;
     }
 
 
